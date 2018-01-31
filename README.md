@@ -1,4 +1,5 @@
 This is React application to managments events created by team-deverest (I'am one of them). We used React,Redux and Firebase. This is my own style in css.
+If you want check app, you can create own account.
 
 
 <a href="https://ibb.co/h1SU66"><img src="https://thumb.ibb.co/h1SU66/Zaznaczenie_026.png" alt="Zaznaczenie_026" border="0"></a> 
